@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "WebApp for movie's introduction using nodejs and mongodb and vue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "express",
+    "vue",
+    "movie"
+  ],
+  "author": "CT",
+  "license": "GNU",
+  "git repository":"https://github.com/jiuxingttc/movietset"
+}
